@@ -15,8 +15,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gvallee/go_exec/pkg/manifest"
-	"github.com/gvallee/go_util/pkg/util"
+	"github.com/BTMichalowicz/go_exec/pkg/manifest"
+	"github.com/BTMichalowicz/go_util/pkg/util"
 )
 
 const (

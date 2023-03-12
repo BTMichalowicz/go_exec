@@ -1,5 +1,5 @@
-module github.com/gvallee/go_exec
+module github.com/BTMichalowicz/go_exec
 
 go 1.13
 
-require github.com/gvallee/go_util v1.1.0
+require github.com/BTMichalowicz/go_util v1.1.0

@@ -15,7 +15,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/gvallee/go_util/pkg/util"
+	"github.com/BTMichalowicz/go_util/pkg/util"
 )
 
 func getFileHash(path string) string {
